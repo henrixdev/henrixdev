@@ -1,195 +1,236 @@
-# ⚔️ HENRIQUE HEPHNER
-
 <div align="center">
 
-### `SOFTWARE DEVELOPER`
-
-`Full Stack Development` · `React` · `JavaScript` · `Node.js`
+<a href="https://github.com/henrixdev">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:0d1117,100:00e5ff&text=HENRIQUE&fontColor=00e5ff&fontSize=55&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20%7C%20REACT&descAlignY=60&descSize=16&animation=twinkling" alt="Henrique - Software Developer"/>
+</a>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3200&pause=1200&color=8B8580&center=true&vCenter=true&width=600&height=30&lines=Building+software+one+problem+at+a+time;Learning+%E2%86%92+Building+%E2%86%92+Improving;The+journey+continues..." alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=720&lines=%3E+Initializing+developer.profile...;%3E+System+online+%E2%9C%93;%3E+Building+modern+web+applications;%3E+JavaScript+%7C+React+%7C+Node.js;%3E+Learning.+Building.+Evolving." alt="Typing animation"/>
+
+<br><br>
+
+<a href="https://github.com/henrixdev">
+<img src="https://img.shields.io/badge/GitHub-henrixdev-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
+</a>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-0D1117?style=for-the-badge&logo=statuspage&logoColor=00E5FF" alt="Status"/>
+
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full Stack"/>
 
 </div>
 
 ---
 
-## `> ABOUT_ME.exe`
+## `01` — About Me
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                    HENRIQUE HEPHNER                          │
-├──────────────────────────────────────────────────────────────┤
-│ ROLE        :: Software Developer                            │
-│ FOCUS       :: Full Stack Development                        │
-│ FRONTEND    :: React / JavaScript                            │
-│ BACKEND     :: Node.js / APIs                                │
-│ ENVIRONMENT :: Linux                                          │
-│ CURRENT     :: Expanding the stack                           │
-│ STATUS      :: [ ONLINE ]                                    │
-└──────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  HENRIQUE                                                   │
+│  Software Developer                                         │
+│                                                             │
+│  FOCUS                                                      │
+│  ├── Full Stack Development                                 │
+│  ├── Frontend / React                                       │
+│  ├── JavaScript                                             │
+│  └── Backend / Node.js                                      │
+│                                                             │
+│  CURRENT MODE                                               │
+│  ├── Learning                                               │
+│  ├── Building                                               │
+│  └── Improving                                              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-I’m a **Software Developer** focused on modern web development and building a strong foundation toward **Full Stack Development**.
+Olá! Eu sou **Henrique**, desenvolvedor de software focado em desenvolvimento web.
 
-My current path is centered around **JavaScript, React, Node.js, backend development and APIs**.
+Atualmente estou aprofundando meus conhecimentos em **JavaScript, React, Node.js e desenvolvimento Full Stack**, transformando conceitos de programação em projetos práticos.
 
-I enjoy understanding how systems work from the inside out — from interfaces and user experience to application logic, data and the infrastructure behind it.
+Tenho interesse em construir aplicações modernas, entender como elas funcionam de ponta a ponta e evoluir continuamente minha capacidade de resolver problemas através de código.
+
+### Atualmente, estou focado em:
+
+* ⚛️ Desenvolvimento de interfaces com **React**
+* 🟨 Aprofundamento em **JavaScript**
+* 🟢 Desenvolvimento backend com **Node.js**
+* 🌐 Desenvolvimento de aplicações web
+* 🔌 Integração e consumo de APIs
+* 🧠 Lógica de programação e resolução de problemas
+* 🏗️ Organização e estruturação de aplicações
+* 🚀 Construção de projetos práticos
+* 📚 Aprendizado contínuo
+
+---
+
+## `02` — Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+</a>
+
+<a href="https://react.dev/">
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</a>
+
+<br><br>
+
+### Backend
+
+<a href="https://nodejs.org/">
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js"/>
+</a>
+
+<br><br>
+
+### Tools & Environment
+
+<a href="https://git-scm.com/">
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VS Code"/>
+</a>
+
+<a href="https://www.linux.org/">
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
+</a>
+
+<a href="https://www.npmjs.com/">
+<img src="https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=CB3837" alt="npm"/>
+</a>
+
+</div>
+
+---
+
+## `03` — Development Workflow
 
 ```text
-BUILD → BREAK → DEBUG → LEARN → IMPROVE
-```
-
-<div align="center">
-
-> *"Every bug is another system understood."*
-
-</div>
-
----
-
-## `> TECH_STACK`
-
-### `LANGUAGES`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="Languages">
-
-</div>
-
-### `FRONTEND`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,vite&theme=dark" alt="Frontend">
-
-</div>
-
-### `BACKEND & DATA`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark" alt="Backend and databases">
-
-</div>
-
-### `DEVELOPMENT ENVIRONMENT`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,bash,vscode,git,github,npm&theme=dark" alt="Development environment">
-
-</div>
-
----
-
-## `> TOOLKIT`
-
-| SYSTEM TOOL       | TECHNOLOGY            |
-| :---------------- | :-------------------- |
-| `EDITOR`          | VS Code               |
-| `OS`              | Linux                 |
-| `VERSION CONTROL` | Git / GitHub          |
-| `TERMINAL`        | Bash                  |
-| `FRONTEND`        | React / Vite          |
-| `BACKEND`         | Node.js / Express     |
-| `DATABASE`        | PostgreSQL / MongoDB  |
-| `WORKFLOW`        | Git / CLI / REST APIs |
-
----
-
-## `> PROJECTS`
-
-> **PROJECT PROTOCOL**
->
-> `01` Build real things
-> `02` Solve real problems
-> `03` Understand before abstracting
-> `04` Refactor when necessary
-> `05` Learn from every bug
-> `06` Ship better than yesterday
-
-*Projects will be added here as they become part of the journey.*
-
----
-
-## `> CURRENT_OBJECTIVES`
-
-```console
-henrique@system:~$ ./current-objectives
-
-[~] Strengthen JavaScript fundamentals
-[~] Deepen React knowledge
-[~] Explore the Node.js ecosystem
-[~] Improve backend development
-[~] Work with REST APIs
-[~] Strengthen database knowledge
-[~] Build complete Full Stack applications
-[~] Improve software engineering practices
-
-> NEXT_TARGET:
-
-Build → Deploy → Maintain → Improve
-
-> MODE: LEARNING
-> STATUS: ACTIVE
+IDEA
+ │
+ ▼
+┌──────────────┐
+│   PLANNING   │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│ DEVELOPMENT  │
+│              │
+│ JavaScript   │
+│ React        │
+│ Node.js      │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│    TESTING   │
+│   & DEBUG    │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│     GIT      │
+│   VERSION    │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│    BUILD     │
+└──────────────┘
 ```
 
 ---
 
-## `> DEVELOPMENT_MINDSET`
+## `04` — Projects
+
+<div align="center">
+
+### 🚀 Selected Projects
+
+<a href="https://github.com/henrixdev?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="Explore projects"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PROJECTS-IN%20PROGRESS-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Projects in progress"/>
+
+</div>
+
+> Projects will be highlighted here as they evolve.
+
+---
+
+## `05` — Current Mission
+
+<div align="center">
 
 ```text
-                     ┌─────────────┐
-                     │   PROBLEM   │
-                     └──────┬──────┘
-                            │
-                            ▼
-                     ┌─────────────┐
-                     │ UNDERSTAND  │
-                     └──────┬──────┘
-                            │
-                            ▼
-                     ┌─────────────┐
-                     │    BUILD    │
-                     └──────┬──────┘
-                            │
-                            ▼
-                     ┌─────────────┐
-                     │    TEST     │
-                     └──────┬──────┘
-                            │
-                            ▼
-                     ┌─────────────┐
-                     │   DEBUG     │
-                     └──────┬──────┘
-                            │
-                            ▼
-                     ┌─────────────┐
-                     │   IMPROVE   │
-                     └──────┬──────┘
-                            │
-                            └───────────────► REPEAT
+┌──[ henrique@dev ]─[ ~/development ]
+└─$ ./current_mission.sh
+
+SYSTEM STATUS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[████████████████████████████████] ACTIVE
+
+COMPLETED
+
+[✓] Strengthen JavaScript fundamentals
+[✓] Practice programming logic
+[✓] Build web applications
+[✓] Develop interfaces with React
+[✓] Practice Node.js
+
+IN PROGRESS
+
+[→] Improve Full Stack development
+[→] Build increasingly complex projects
+[→] Improve code quality
+[→] Strengthen backend knowledge
+[→] Expand technical knowledge
+[→] Turn learning into real-world projects
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NEXT OBJECTIVE
+
+> Become a better Software Developer.
+
+STATUS: LEARNING // BUILDING // EVOLVING
 ```
+
+</div>
 
 ---
 
-## `> GITHUB_ANALYTICS`
+## `06` — GitHub Analytics
 
 <div align="center">
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=henrixdev&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D6D1CC&text_color=8B8580&icon_color=7A2929&rank_icon=github"
-alt="GitHub statistics"
-/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=henrixdev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
 
-<img
-height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=henrixdev&hide_border=true&background=0D0D0D&ring=7A2929&fire=9E3636&currStreakLabel=D6D1CC&sideLabels=8B8580&dates=55514F&currStreakNum=D6D1CC&sideNums=D6D1CC"
-alt="GitHub streak"
-/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrixdev&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top languages"/>
 
 </div>
 
@@ -197,105 +238,72 @@ alt="GitHub streak"
 
 <div align="center">
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrixdev&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=D6D1CC&text_color=8B8580"
-alt="Top languages"
-/>
+<img src="https://streak-stats.demolab.com?user=henrixdev&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## `> ACTIVITY_MATRIX`
+## `07` — Contribution Activity
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=henrixdev&bg_color=080808&color=8B8580&line=7A2929&point=D6D1CC&area=true&hide_border=true&custom_title=Contribution%20Activity"
-alt="GitHub contribution activity"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=henrixdev&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
 
 </div>
 
 ---
 
-## `> ACHIEVEMENTS`
+## `08` — Achievements
 
 <div align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=henrixdev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4"
-alt="GitHub trophies"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=henrixdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub profile trophies"/>
 
 </div>
 
 ---
 
-## `> CONTRIBUTION_PROTOCOL`
+## `09` — Contribution Matrix
 
 <div align="center">
 
-<img
-src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub contribution snake"
-/>
+<img src="https://raw.githubusercontent.com/henrixdev/henrixdev/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
 
 </div>
 
 ---
 
-## `> SYSTEM_COMPANION`
-
-<div align="center">
-
-```text
-       /\_/\
-      ( o.o )
-       > ^ <
-```
-
-`Every developer needs a cat supervising the code.`
-
-</div>
-
----
-
-## `> CONNECT`
+## `10` — Connect
 
 <div align="center">
 
 <a href="https://github.com/henrixdev">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=D6D1CC" alt="GitHub">
-</a>
-
- 
-
-<a href="https://www.linkedin.com/in/henrique-hephner/">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=D6D1CC" alt="LinkedIn">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
 </a>
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=henrixdev&style=flat-square&color=00e5ff&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br><br>
+
 ```text
-────────────────────────────────────────────────────────────
-
-                         MEMENTO MORI
-
-                  BUILD · LEARN · ENDURE
-
-────────────────────────────────────────────────────────────
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│       BUILDING THE FUTURE, ONE LINE AT A TIME.      │
+│                                                      │
+│                    HENRIQUE                          │
+│                                                      │
+│              SOFTWARE DEVELOPER                     │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
-<br>
-
-<sub>henrixdev · Software Developer</sub>
+<sub>Designed & built with code · Henrique · 2026</sub>
 
 </div>
