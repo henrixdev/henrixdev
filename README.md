@@ -52,15 +52,15 @@ Tenho interesse em construir aplicações modernas, entender como elas funcionam
 
 ### Atualmente, estou focado em:
 
-* ⚛️ Desenvolvimento de interfaces com **React**
-* 🟨 Aprofundamento em **JavaScript**
-* 🟢 Desenvolvimento backend com **Node.js**
-* 🌐 Desenvolvimento de aplicações web
-* 🔌 Integração e consumo de APIs
-* 🧠 Lógica de programação e resolução de problemas
-* 🏗️ Organização e estruturação de aplicações
-* 🚀 Construção de projetos práticos
-* 📚 Aprendizado contínuo
+* Desenvolvimento de interfaces com **React**
+* Aprofundamento em **JavaScript**
+* Desenvolvimento backend com **Node.js**
+* Desenvolvimento de aplicações web
+* Integração e consumo de APIs
+* Lógica de programação e resolução de problemas
+* Organização e estruturação de aplicações
+* Construção de projetos práticos
+* Aprendizado contínuo
 
 ---
 
